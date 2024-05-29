@@ -22,7 +22,7 @@ inputs:
   godot-version:
     description: 'Godot Engine version. Supported are 4.x versions'
     required: false
-    default: '4.2'
+    default: '4.2.2'
   os:
     description: 'The runners OS. Linux and Windows supported'
     required: false
