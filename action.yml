@@ -1,7 +1,7 @@
 
-name: 'Godot Engine 4.x Web Export'
-description: 'Godot Engine 4.x Web export'
-author: 'Simon Dalvai @dulvui'
+name: 'Godot Engine 4.x Web Export linux'
+description: 'Godot Engine 4.x Web export linux'
+author: 'Simon Dalvai @dulvui with deletes by digiur'
 branding:
   color: blue
   icon: upload-cloud
